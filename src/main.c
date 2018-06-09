@@ -29,3 +29,4 @@ int main(int argc, char **argv)
 	free_maze(maze_params);
 	return (0);
 }
+
