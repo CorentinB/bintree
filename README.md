@@ -1,13 +1,18 @@
 # BINTREE
  Binary tree maze generation application in C.
 
-# Download and installation
+# Download and compilation
 ```
 git clone https://github.com/CorentinB/bintree.git
 cd bintree/
 make
+```
+
+# Usage
+```
 ./generator x y [perfect]
 ```
+
 
 This generator use the binary tree algorithm to generate perfect or imperfect maze.
 
