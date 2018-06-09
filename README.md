@@ -1,5 +1,5 @@
-# SOKOBAN
-Sokoban game in C, using ncurses
+# BINTREE
+ Binary tree maze generation application in C.
 
 # Download and installation
 ```
